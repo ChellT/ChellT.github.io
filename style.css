@@ -1,4 +1,9 @@
-h1 {
+.HeadingName {
     color: red;
     text-align: center;
+  }
+
+  section{
+    display: block;
+    color: blue;
   }
