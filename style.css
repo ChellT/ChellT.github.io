@@ -11,7 +11,7 @@ body {
 color: black;
 padding-left: 10%;
 padding-top: 30%;
-opacity: 100%;
+opacity: 1;
 font-family: 'TheGoodMonolith', sans-serif;
 font-size: 50px;
 }
@@ -20,7 +20,7 @@ font-size: 50px;
 .Headingsubtext {
 color: black;
 padding-left: 10%;
-opacity: 100%;
+opacity: 1;
 font-family: 'TheGoodMonolith', sans-serif;
 font-size: 30px;
 
@@ -30,14 +30,14 @@ font-size: 30px;
     background-color:white;
     width: 35%;
     height: 90vh;
-    opacity: 70%;
+    opacity: 0.7;
 }
 
 .Headingyear{
 color: black;
 padding-left: 5%;
-padding-top: 38%;
-opacity: 100%;
+padding-top: 43%;
+opacity: 1;
 font-size: 20px;
 font-family: 'TheGoodMonolith', sans-serif;
 }
@@ -47,7 +47,8 @@ font-family: 'TheGoodMonolith', sans-serif;
     padding: 16% ;
     color: black;
     font-size: 16px;
-    width: 30px;
+    width: 60px;
+  
 
   }
   
@@ -55,6 +56,9 @@ font-family: 'TheGoodMonolith', sans-serif;
   .dropdown {
     position: relative;
     display: inline-block;
+    position: absolute;
+    z-index: 1;
+    top: 570px;
   }
   
   /* Dropdown Content (Hidden by Default) */
@@ -66,6 +70,7 @@ font-family: 'TheGoodMonolith', sans-serif;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
     font-family: 'TheGoodMonolith', sans-serif;
+  opacity: 1;
   }
   
   /* Links inside the dropdown */
@@ -74,6 +79,7 @@ font-family: 'TheGoodMonolith', sans-serif;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
+    font-size: 30px;
   }
   
  
