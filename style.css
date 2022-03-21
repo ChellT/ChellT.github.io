@@ -3,7 +3,7 @@ body {
 }
 @font-face {
   font-family: TheGoodMonolith;
-  src: url('http://fonts.cdnfonts.com/css/thegoodmonolith');
+  src: url(TheGoodMonolith.ttf);
 }
 .HeadingName {
 color: black;
