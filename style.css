@@ -1,5 +1,6 @@
 body {
     background-image: url("https://cdn.pixabay.com/photo/2020/04/20/10/52/code-5067826_1280.jpg");
+    background-repeat: no-repeat;
 }
 @font-face {
   font-family: TheGoodMonolith;
