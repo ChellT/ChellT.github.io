@@ -1,6 +1,9 @@
 body {
     background-image: url("https://cdn.pixabay.com/photo/2020/04/20/10/52/code-5067826_1280.jpg");
-   
+}
+@font-face {
+  font-family: TheGoodMonolith;
+  src: url('http://fonts.cdnfonts.com/css/thegoodmonolith');
 }
 .HeadingName {
 color: black;
